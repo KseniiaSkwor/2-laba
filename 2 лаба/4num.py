@@ -13,3 +13,4 @@ elif (color1 == "синий" and color2 == "желтый") or (color2 == "син
     print("зеленый")
 else:
     print("Не смешается")
+    ""
